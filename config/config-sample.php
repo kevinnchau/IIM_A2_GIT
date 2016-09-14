@@ -1,7 +1,11 @@
 <?php
 
 $host = 'localhost';
+<<<<<<< HEAD
 $dbname = 'IIM_Git_SoundCloud';
+=======
+$dbname = 'web_soundcloud';
+>>>>>>> 041aa9c833798438debdc8ac9980e77d87125535
 $user = 'root';
 $pass = 'root';
 
