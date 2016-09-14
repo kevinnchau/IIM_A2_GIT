@@ -3,7 +3,7 @@
 /******************************** 
 	 DATABASE & FUNCTIONS 
 ********************************/
-require('config/config-sample.php');
+require('config/config.php');
 require('model/functions.fn.php');
 
 
